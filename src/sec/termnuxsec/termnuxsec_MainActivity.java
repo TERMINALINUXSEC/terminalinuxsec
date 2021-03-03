@@ -36,7 +36,7 @@ public class termnuxsec_MainActivity extends Activity {
             }
         });
 
-        webView.loadUrl("https://terminalinuxsec.blogspot.com/?m=1");
+        webView.loadUrl("https://howtutorsec.blogspot.com/?m=1);
     }
 
     @Override
