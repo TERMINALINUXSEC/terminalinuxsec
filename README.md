@@ -2,4 +2,4 @@
 Apk pertama Terminalinuxsec
 
 
-Web : https://terminalinuxsec.blogspot.com/?m=1
+Web : https://howtutorsec.blogspot.com
